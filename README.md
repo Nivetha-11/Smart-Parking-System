@@ -1,7 +1,7 @@
 # Smart-Parking-System---Object-Detection-Technique-
 Developed a Smart Parking System using MASK-RCNN Object Detection mechanism. GUI - Python and Flask.
 
-#Project Description: 
+# Project Description: 
 
 This project aims to present an Artificial Intelligent system for detecting parking space based on the object detection technique. 
 We used transfer learning and trained the Mask-RCNN model to detect occupied/empty parking slots.In this experiment Mask-RCNN, 
@@ -12,15 +12,39 @@ threshold value, then we consider the parking slot to be occupied. An automatic 
 of parking cars more efficient and less complex for drivers.
 
 
-#Dataset Details: 
+# Dataset Details: 
 
 Task Type: Object Detection
 Database Link: https://web.inf.ufpr.br/vri/databases/parking-lot-database/ 
-Training dataset: 833 images
-Validation dataset: 136 images
-Test dataset: 136 images
-The dataset is divided into 70% for training, 15% for testing and 15% for training.
+1) Training dataset: 833 images
+2) Validation dataset: 136 images
+3) Test dataset: 136 images
+4) The dataset is divided into 70% for training, 15% for testing and 15% for training.
 
-#Project Detail along with the python files and GUI:
+
+# Sample Input images
+<img width="607" alt="Screen Shot 2021-06-28 at 8 47 15 pm" src="https://user-images.githubusercontent.com/57209945/123624552-08b61280-d852-11eb-8534-d92622b3d9cf.png">
+
+
+# Project Detail along with the python files and GUI:
 
 https://drive.google.com/drive/folders/1KdG9O26TL9mW0G3MStq5d4F_qjENdBxH?usp=sharing
+
+
+# Basic Workflow Diagram 
+
+
+<img width="489" alt="Screen Shot 2021-06-28 at 8 48 36 pm" src="https://user-images.githubusercontent.com/57209945/123624693-37cc8400-d852-11eb-88ed-2dffb241ca55.png">
+
+# Experimental Results
+
+<img width="488" alt="Screen Shot 2021-06-28 at 8 51 21 pm" src="https://user-images.githubusercontent.com/57209945/123624984-998cee00-d852-11eb-98a8-a0823091553a.png">
+
+
+# Sample Images with Predicted Results
+
+<img width="463" alt="Screen Shot 2021-06-28 at 8 50 01 pm" src="https://user-images.githubusercontent.com/57209945/123624826-6a767c80-d852-11eb-9cbc-e8705eda0038.png">
+
+
+
+
