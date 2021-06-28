@@ -1,4 +1,4 @@
-# Smart-Parking-System---Object-Detection-Technique-
+# Smart-Parking-System using Object-Detection-Technique
 Developed a Smart Parking System using MASK-RCNN Object Detection mechanism. GUI - Python and Flask.
 
 # Project Description: 
